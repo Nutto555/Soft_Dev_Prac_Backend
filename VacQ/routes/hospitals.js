@@ -42,14 +42,14 @@ const {getHospitals, getHospital, createHospital,
  *           type: string
  *           description: region
  *       example:
- *         id: 609bda561452242d88d36e37
- *         ลําดับ: )*)
- *         name: Happy Hospital
- *         address: 121 ถ.สุขุมวิท
- *         district: บางนา
+ *         id: 660eb5a0b6b74d0381bcf5a0
+ *         ลําดับ: 02
+ *         name: Sunset Clinic
+ *         address: 4567 พระรามที่ 4
+ *         district: ปทุมวัน
  *         province: กรุงเทพมหานคร
- *         postalcode: 10110
- *         tel: 02-2187000
+ *         postalcode: 10330
+ *         tel: 02-3456789
  *         region: กรุงเทพมหานคร (Bangkok)
  */
 
